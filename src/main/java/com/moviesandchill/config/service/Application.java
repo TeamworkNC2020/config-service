@@ -1,4 +1,4 @@
-package com.mycompany.config.service;
+package com.moviesandchill.config.service;
 
 import java.util.Arrays;
 
